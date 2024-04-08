@@ -1,4 +1,4 @@
-# Project Name: CreativeHub
+# Project Name: Pinterest Project
 
 Welcome to CreativeHub, your dynamic platform for unleashing creativity and innovation! 🌟✨
 
