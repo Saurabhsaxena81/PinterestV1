@@ -8,6 +8,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+README1
 # Ignore dotenv environment variable files
 .env
 
